@@ -15,7 +15,7 @@
 
 Для роботи проекту потрібен файл сесії Телеграм клієнта.
 <br>
-Інстрікцію дівіться [тут](https://docs.telethon.dev/en/stable/basic/signing-in.html)
+Інструкцію дивіться [тут](https://docs.telethon.dev/en/stable/basic/signing-in.html)
 
 <br>
 
