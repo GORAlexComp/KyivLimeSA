@@ -1,8 +1,8 @@
-__pycache__/
-docs/
+.bundle
+.sass-cache
+_site
+Gemfile.lock
 
-.env
-app.session
 KyivLime.code-workspace
 
 *.log
